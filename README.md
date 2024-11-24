@@ -2,7 +2,7 @@
 
 Me chamo Michele Braatz, sou estudante de Front-End.
 
-- 🔭 Atualmente estou trabalhando como suporte técnico na Philips
+- 🔭 Trabalho como suporte técnico na Philips
 - 🌱 Atualmente estou aprendendo JavaScript
 
 ## Ferramentas e Tecnologias
