@@ -1,6 +1,9 @@
 ### Olá! 😁
 
-Eu sou a Michele Braatz, estudante de Front-End.
+Me chamo Michele Braatz, sou estudante de Front-End.
+
+- 🔭 Atualmente estou trabalhando como suporte técnico na Philips
+- 🌱 Atualmente estou aprendendo JavaScript
 
 ## Ferramentas e Tecnologias
 <div>
